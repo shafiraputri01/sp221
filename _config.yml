@@ -1,0 +1,11 @@
+version:     "0001--10-Feb-2022"
+copyright:   "2022"
+author:      "Shafira"
+title:       "SP221: System Programming 2022-1"
+githublink:  "https://github.com/shafiraputri01/sp221/"
+myloglink:   "TXT/mylog.txt"
+encoding:    UTF-8
+markdown:    kramdown
+input:       GFM
+hard_wrap:   false
+github:      [metadata]
