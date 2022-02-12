@@ -2,3 +2,6 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00 100 L02 ZOOM meetings related
+ZCZC W00 180 L09 Assignment in General
+ZCZC W00  25 L02 ZOOM meetings related
+ZCZC W00  30 L05 Quiz related
