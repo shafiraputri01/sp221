@@ -11,4 +11,4 @@ ZCZC W01  20 L05 Quiz related
 ZCZC W01  10 L11 Assignment #01
 ZCZC W01 160 L12 Assignment #02
 ZCZC W01  40 L13 Assignment #03
-ZCZC W01  15 L03 GitHub related
+ZCZC W01  30 L03 GitHub related
