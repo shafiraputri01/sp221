@@ -25,3 +25,7 @@ ZCZC W03  20 L12 Assignment #02 - helloworld-fuse
 ZCZC W03  60 L12 Assignment #02 - fuse-tutorial
 ZCZC W03   5 L13 Assignment #03
 ZCZC W03  15 L03 GitHub related
+ZCZC W03  30 L21 Trying getopt_long
+ZCZC W03  30 L02 ZOOM meetings related
+ZCZC W03  30 L05 Quiz related
+ZCZC W03  10 L03 GitHub related
