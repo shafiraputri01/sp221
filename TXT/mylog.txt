@@ -29,3 +29,12 @@ ZCZC W03  30 L21 Trying getopt_long
 ZCZC W03  30 L02 ZOOM meetings related
 ZCZC W03  30 L05 Quiz related
 ZCZC W03  10 L03 GitHub related
+ZCZC W04 100 L02 ZOOM meetings related
+ZCZC W04 100 L11 Assignment #01 - Update kernel
+ZCZC W04  10 L12 Assignment #02
+ZCZC W04 100 L13 Assignment #03
+ZCZC W04  30 L11 Assignment #01 - Reading
+ZCZC W04  90 L21 Trying Afuse
+ZCZC W04  25 L02 ZOOM meetings related
+ZCZC W04  30 L05 Quiz related
+ZCZC W04  10 L03 GitHub related
