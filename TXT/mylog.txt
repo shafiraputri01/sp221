@@ -38,3 +38,13 @@ ZCZC W04  90 L21 Trying Afuse
 ZCZC W04  25 L02 ZOOM meetings related
 ZCZC W04  30 L05 Quiz related
 ZCZC W04  10 L03 GitHub related
+ZCZC W05  90 L21 Trying Afuse
+ZCZC W05 100 L02 ZOOM meetings related
+ZCZC W05 120 L11 Assignment #01
+ZCZC W05  10 L12 Assignment #02
+ZCZC W05  30 L21 Trying Scripting
+ZCZC W05  25 L02 ZOOM meetings related
+ZCZC W05  20 L05 Quiz related
+ZCZC W05 150 L13 Assignment #03 - Make wweek script
+ZCZC W05  10 L03 GitHub related
+
