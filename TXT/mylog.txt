@@ -47,4 +47,9 @@ ZCZC W05  25 L02 ZOOM meetings related
 ZCZC W05  20 L05 Quiz related
 ZCZC W05 150 L13 Assignment #03 - Make wweek script
 ZCZC W05  10 L03 GitHub related
-
+ZCZC W06  60 L21 Trying somethings
+ZCZC W06 100 L02 ZOOM meetings related
+ZCZC W06 100 L11 Assignment #01
+ZCZC W06  10 L12 Assignment #02
+ZCZC W06  50 L02 ZOOM meetings related
+ZCZC W06  10 L03 GitHub related
