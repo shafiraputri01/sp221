@@ -59,3 +59,10 @@ ZCZC W07  10 L12 Assignment #02
 ZCZC W07 120 L13 Assignment #03
 ZCZC W07  50 L02 ZOOM meetings related
 ZCZC W07  15 L03 GitHub related
+ZCZC W08 100 L02 ZOOM meetings related
+ZCZC W08 130 L11 Assignment #01
+ZCZC W08  10 L12 Assignment #02
+ZCZC W08  30 L13 Assignment #03
+ZCZC W08  50 L02 ZOOM meetings related
+ZCZC W08  15 L03 GitHub related
+
